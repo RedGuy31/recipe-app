@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Recipe App",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedGuy31/recipe-app.git"
+  },
+  "author": "Irakli Maisuradze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedGuy31/recipe-app/issues"
+  },
+  "homepage": "https://github.com/RedGuy31/recipe-app#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}

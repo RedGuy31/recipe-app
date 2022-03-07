@@ -7,3 +7,5 @@ const timeout = function (s) {
     }, s * 1000);
   });
 };
+
+console.log(`test`);
