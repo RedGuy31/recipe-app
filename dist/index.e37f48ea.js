@@ -531,8 +531,18 @@ const timeout = function(s) {
         }, s * 1000);
     });
 };
+const renderSpinner = function(parentEL) {
+    const markup = `<div class="spinner">
+  <svg>
+    <use href="${_iconsSvgDefault.default}#icon-loader"></use>
+  </svg>
+</div>`;
+    parentEL.innerHTML = ``;
+    parentEL.insertAdjacentHTML(`afterbegin`, markup);
+};
 const showRecipe = async function() {
     try {
+        renderSpinner(recipeContainer);
         const res = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc888`);
         const data = await res.json();
         if (!res.ok) throw new Error(`${data.message} (${res.status})`);
