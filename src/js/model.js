@@ -1,5 +1,5 @@
-import { API_URL } from "./config";
-import { getJSON } from "./helper";
+import { API_URL } from "./config.js";
+import { getJSON } from "./helper.js";
 
 export const state = {
   recipe: {},
@@ -21,7 +21,7 @@ export const loadRecipe = async function (id) {
       cookingTime: recipe.cooking_time,
       ingredients: recipe.ingredients,
     };
-    console.log(state.recipe);
+    // console.log(state.recipe);
   } catch (err) {
     console.error(`${err} $$$$$$$$`);
   }
