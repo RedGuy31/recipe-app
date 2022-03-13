@@ -155,4 +155,4 @@ ${recipe.ingredients
   }
 };
 
-window.addEventListener("hashchange", showRecipe);
+["hashchange", "load"].forEach((ev) => window.addEventListener(ev, showRecipe));

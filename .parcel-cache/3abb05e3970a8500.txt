@@ -9,7 +9,7 @@
 68C:\Users\HP\Desktop\App\node_modules\postcss-merge-rules\LICENSE-MIT132915245046164834 0
 63C:\Users\HP\Desktop\App\node_modules\v8-compile-cache\README.md132915245060229070 0
 68C:\Users\HP\Desktop\App\node_modules\caniuse-lite\data\regions\AX.js132915245105043775 0
-28C:\Users\HP\Desktop\App\dist132916214669818761 1
+28C:\Users\HP\Desktop\App\dist132916222414578474 1
 61C:\Users\HP\Desktop\App\node_modules\json-source-map\index.js132915245056527581 0
 27C:\Users\HP\Desktop\App\src132915243098473121 1
 68C:\Users\HP\Desktop\App\node_modules\source-map-js\lib\base64-vlq.js132915245054083671 0
@@ -23,7 +23,7 @@
 82C:\Users\HP\Desktop\App\node_modules\csso\lib\restructure\2-initialMergeRuleset.js132915245055315374 0
 71C:\Users\HP\Desktop\App\node_modules\core-js\internals\enum-bug-keys.js132915245135235578 0
 65C:\Users\HP\Desktop\App\node_modules\core-js\features\map\from.js132915245158506499 0
-34C:\Users\HP\Desktop\App\index.html132916214666593424 0
+34C:\Users\HP\Desktop\App\index.html132916218783177300 0
 86C:\Users\HP\Desktop\App\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c132915245094852942 0
 60C:\Users\HP\Desktop\App\node_modules\postcss-merge-rules\src132915245055767879 1
 57C:\Users\HP\Desktop\App\node_modules\json5\lib\parse.d.ts132915245084472730 0
@@ -208,7 +208,7 @@
 46C:\Users\HP\Desktop\App\node_modules\commander132915245068213174 1
 66C:\Users\HP\Desktop\App\node_modules\svgo\plugins\removeViewBox.js132915245109702620 0
 71C:\Users\HP\Desktop\App\node_modules\core-js\stable\instance\entries.js132915245135085655 0
-44C:\Users\HP\Desktop\App\src\js\controller.js132916214323044604 0
+44C:\Users\HP\Desktop\App\src\js\controller.js132916224527749950 0
 43C:\Users\HP\Desktop\App\src\img\favicon.png132915243097249215 0
 62C:\Users\HP\Desktop\App\node_modules\@types\parse-json\LICENSE132915245046164834 0
 69C:\Users\HP\Desktop\App\node_modules\yaml\dist\resolveSeq-d03cb037.js132915245094563116 0
@@ -4856,7 +4856,7 @@
 74C:\Users\HP\Desktop\App\node_modules\@parcel\core\src\public\Dependency.js132915245108057344 0
 77C:\Users\HP\Desktop\App\node_modules\core-js\modules\esnext.symbol.dispose.js132915245149990716 0
 69C:\Users\HP\Desktop\App\node_modules\core-js\internals\is-iterable.js132915245168807973 0
-46C:\Users\HP\Desktop\App\dist\index.62406edb.js132915251617859355 0
+46C:\Users\HP\Desktop\App\dist\index.62406edb.js132916223737077315 0
 70C:\Users\HP\Desktop\App\node_modules\@parcel\workers\src\childState.js132915245068840077 0
 77C:\Users\HP\Desktop\App\node_modules\core-js\modules\esnext.symbol.matcher.js132915245150020694 0
 80C:\Users\HP\Desktop\App\node_modules\core-js\modules\esnext.symbol.observable.js132915245150160610 0
@@ -5072,7 +5072,7 @@
 72C:\Users\HP\Desktop\App\node_modules\core-js\actual\instance\index-of.js132915245164018897 0
 75C:\Users\HP\Desktop\App\node_modules\core-js\features\array-buffer\slice.js132915245184928946 0
 73C:\Users\HP\Desktop\App\node_modules\core-js\features\weak-set\add-all.js132915245082158049 0
-39C:\Users\HP\Desktop\App\dist\index.html132916214669762723 0
+39C:\Users\HP\Desktop\App\dist\index.html132916215648445913 0
 59C:\Users\HP\Desktop\App\node_modules\color-convert\route.js132915245064493335 0
 76C:\Users\HP\Desktop\App\node_modules\core-js\features\weak-set\delete-all.js132915245132020500 0
 70C:\Users\HP\Desktop\App\node_modules\core-js\features\weak-set\from.js132915245158796330 0
@@ -7376,5 +7376,5 @@
 52C:\Users\HP\Desktop\App\node_modules\.bin\terser.ps1132915245200885154 0
 49C:\Users\HP\Desktop\App\dist\favicon.8b2f57bf.png132916004429662164 0
 50C:\Users\HP\Desktop\App\dist\index.62406edb.js.map132915251617929319 0
-46C:\Users\HP\Desktop\App\dist\index.e37f48ea.js132916214324189232 0
-50C:\Users\HP\Desktop\App\dist\index.e37f48ea.js.map132916214324229208 0
+46C:\Users\HP\Desktop\App\dist\index.e37f48ea.js132916224327247976 0
+50C:\Users\HP\Desktop\App\dist\index.e37f48ea.js.map132916222414548484 0
